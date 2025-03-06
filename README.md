@@ -39,6 +39,23 @@ The program will output the combined list of domestic and wild animals.
 - **Description**: This C program calculates the average marks for three subjects.
 - **Input**: Marks for each test in the four categories (Assignment, Coursework, Mid-term, and End-of-term) for Physics, Chemistry, and Math.
 - **Output**: Average marks for each subject and the overall average.
+- # Introduction to Programming
+
+This repository contains C programs for two different tasks:
+
+1. **Average Marks Calculation**
+2. **Animals Grouping**
+
+## Screenshots
+
+### 1. Average Marks Calculation Program
+
+![Average Marks Calculation Screenshot](222.png)
+
+### 2. Animals Grouping Program
+
+![Animals Grouping Screenshot](222.png)
+
 
 ### Animals Grouping Program
 - **File**: `animals_grouping.c`
