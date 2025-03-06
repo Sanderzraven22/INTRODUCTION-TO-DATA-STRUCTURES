@@ -58,7 +58,6 @@ This repository contains C programs for two different tasks:
 
 
 ### Animals Grouping Program
-- **File**: `animals_grouping.c`
 - **Description**: This C program takes input for N domestic animals and X wild animals and then prints the combined list.
 - **Input**: List of N domestic animals and X wild animals.
 - **Output**: Combined list of animals.
