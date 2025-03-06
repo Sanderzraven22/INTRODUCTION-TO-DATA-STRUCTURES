@@ -54,7 +54,7 @@ This repository contains C programs for two different tasks:
 
 ### 2. Animals Grouping Program
 
-![Animals Grouping Screenshot](222.png)
+![Animals Grouping Screenshot](111.png)
 
 
 ### Animals Grouping Program
